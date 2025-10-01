@@ -2,6 +2,12 @@
 
 Automate the handoff of marketing campaigns from Creative to Legal teams by automatically creating Jira tickets when Notion campaigns are marked as "Ready for Legal Review".
 
+## 🎥 Demo Video
+
+[![Notion to Jira Automation Demo](https://vumbnail.com/1123730279.jpg)](https://vimeo.com/1123730279)
+
+*Click to watch the complete setup and demo walkthrough*
+
 ## Overview
 
 This serverless automation integrates Notion and Jira to streamline the campaign review process:
